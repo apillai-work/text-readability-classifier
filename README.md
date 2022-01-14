@@ -13,8 +13,7 @@ audience.`
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
 text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on self-built labelled corpora. The reason for
 choosing only two labels (easy or hard) was to avoid multi-label classification in order to make the task for the classifier simpler. The dataset was also
-analysed using word embeddings with t-SNE. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. A thorough
-analysis of all the findings have been included in the supporting project essay here [link]. 
+analysed using word embeddings with t-SNE. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. 
 
 **Corpus Development:**
 
@@ -26,12 +25,12 @@ classifier. The nature of the content was common in all the textbooks, consistin
 these texts were sourced from Library Genesis (Library Genesis, 2021) and extracted from PDF files using an online file converter. The three finalised datasets
 with labels were as follows:
  
-a)	Dataset 1: First and Tenth Grade English Textbooks from India by the National Council of Educational Research and Training Publication (2009 Edition) 
+a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libgen.is/search.php?req=ncert+english&open=0&res=25&view=simple&phrase=1&column=def) by the National Council of Educational Research and Training Publication (2009 Edition)
 
-b)	Dataset 2: Fourth and Twelfth Grade English Textbooks from Afghanistan by the country's Ministry of Education (2011 Edition)
+b)	Dataset 2: [Fourth and Twelfth Grade English Textbooks from Afghanistan](https://libgen.is/search.php?req=afghanistan+english&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by the country's Ministry of Education (2011 Edition)
 
-c)	Dataset 3: A Second Grade English Textbook from Indonesia and a Sixth Grade Textbook from the Islamic State.
+c) Dataset 3: A [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) and a [Sixth Grade Textbook from the Islamic State.](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def)
 
-
+`A thorough analysis of all the findings have been included in the supporting project essay here [link].` 
 
 
