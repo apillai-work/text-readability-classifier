@@ -16,7 +16,7 @@ choosing only two labels (easy or hard) was to avoid multi-label classification 
 analysed using word embeddings with t-SNE. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. A thorough
 analysis of all the findings have been included in the supporting project essay here [link]. 
 
-## Corpus Development:
+**Corpus Development:**
 
 English textbooks from India, Afghanistan, Indonesia, and the Islamic State were interchangeably used to form three separate datasets. This was done for several
 different aims: to see if variances in grade ranges affect the performance, to study how the same language is taught in different regions, to see if changes in
