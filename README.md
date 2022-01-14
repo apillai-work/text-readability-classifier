@@ -10,9 +10,9 @@ students’ reading level, as the student pool could comprise of children with l
 Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended audience.
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of text
-is easy or hard to read. The reason for choosing only two labels (easy and hard) was to avoid multi-label classification in order to make the task for the
-classifier simpler. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. A thorough analysis of all the findings
-have been included in the supporting project essay here [link]. 
+is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT were trained on self-built labelled corpora. The reason for choosing only two
+labels (easy or hard) was to avoid multi-label classification in order to make the task for the classifier simpler. The dataset was also analysed using word
+embeddings with t-SNE. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. A thorough analysis of all the findings have been included in the supporting project essay here [link]. 
 
 
 
