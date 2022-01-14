@@ -7,8 +7,8 @@ teachers, while creating a reading list for students, might make use of a text r
 their students’ reading level, as the student pool could comprise of children with learning disabilities, immigrant populations, and second or foreign language
 learners (Vajjala and Meurers, 2012). As a result, a consistent and reliable method for determining if a text is accessible to the target population is required.
 
-Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
-audience.
+**Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
+audience.**
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
 text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on self-built labelled corpora. The reason for
@@ -25,7 +25,7 @@ classifier. The nature of the content was common in all the textbooks, consistin
 these texts were sourced from Library Genesis (Library Genesis, 2021) and extracted from PDF files using an online file converter. The three finalised datasets
 with labels were as follows:
  
-a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libgen.is/search.php?req=ncert+english&open=0&res=25&view=simple&phrase=1&column=def) by the National Council of Educational Research and Training Publication (2009 Edition)
+a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libgen.is/search.php?req=ncert+english&open=0&res=25&view=simple&phrase=1&column=def) by the country's National Council of Educational Research and Training Publication (2009 Edition)
 
 b)	Dataset 2: [Fourth and Twelfth Grade English Textbooks from Afghanistan](https://libgen.is/search.php?req=afghanistan+english&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by the country's Ministry of Education (2011 Edition)
 
