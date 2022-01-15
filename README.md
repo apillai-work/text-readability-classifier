@@ -1,7 +1,7 @@
 # Text Readability Classifier
 
 Research into the area of text readability has become increasingly important over the past few years, given how much data is produced online on a daily basis.
-Writers are expected to produce original written thought, or “copy” within a specified word count due to space constraints and low attention spans (Goldhaber,
+Writers are expected to produce original written thought, or “copy”, within a specified word count due to space constraints and low attention spans (Goldhaber,
 1997), which makes it increasingly important to make sure that these compact texts still reaches a wide range of audience, and that they are easy to understand.
 Even teachers, while creating a reading list for students, might make use of a text readability software to ensure that they’re choosing books that are in tandem
 with their students’ reading level, as the student pool could comprise of children with learning disabilities, immigrant populations, and second or foreign
@@ -12,13 +12,15 @@ required.
 audience.**
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
-text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on self-built labelled corpora. This dataset was then also analysed using word embeddings with t-SNE. Lastly, upon all the classifiers being ready, they were tested using Wiki-Simple and Wiki-Normal pages. 
+text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on a self-curated corpus which was divided into
+three distinct labelled datasets. Each of these datasets were also analysed using word embeddings with t-SNE to get a better understanding of it. Lastly, upon
+all the classifiers being ready after manual parameter-tweaking, they were tested using Wiki-Simple and Wiki-Normal pages. 
 
 **Corpus Development:**
 
 English textbooks from India, Afghanistan, Indonesia, and the Islamic State were interchangeably used to form three separate datasets. This was done for several
-different aims: to see if variances in grade ranges affect the performance, to study how the same language is taught in different regions, to see if changes in
-region of the textbook utilized for the same classifier affected performance, and to verify if the model could accurately classify English phrases from across
+different aims: to see if variances in grade ranges affect the performance, to study how the same language is taught in different regions, to examine if changes
+in region of the textbook utilized for the same classifier affected performance, and to verify if the model could accurately classify English phrases from across
 the world using non-western data. Due to this data diversity, one can evaluate what effects the specifics of each dataset have on the general robustness of the
 classifier. The nature of the content was common in all the textbooks, consisting of stories, poems, plays, and english language acquisition exercises. All of
 these texts were sourced from Library Genesis (Library Genesis, 2021) and extracted from PDF files using an online file converter. The three finalised datasets
@@ -28,7 +30,7 @@ a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libge
 
 b)	Dataset 2: [Fourth and Twelfth Grade English Textbooks from Afghanistan](https://libgen.is/search.php?req=afghanistan+english&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by the country's Ministry of Education (2011 Edition)
 
-c) Dataset 3: A [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) and a [Sixth Grade Textbook from the Islamic State.](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def)
+c) Dataset 3: A [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) by the country's Ministry of Education and Culture, and a [Sixth Grade Textbook from the Islamic State.](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def) (Publisher unknown)
 
 `A thorough analysis of all the findings have been included in the supporting project essay here [link].` 
 
