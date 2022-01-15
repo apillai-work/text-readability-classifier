@@ -35,7 +35,7 @@ b)	Dataset 2: [Fourth and Twelfth Grade English Textbooks from Afghanistan](http
 c) Dataset 3: A [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) by the country's Ministry of Education and Culture (2008 Edition), and a [Sixth Grade Textbook from the Islamic State](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def) (Publisher unknown).
 
 
-**A thorough analysis of all the findings have been included in the supporting critical essay [here.](https://github.com/ashwathi-pillai/text-readability-classifier/blob/main/critical%20essay.pdf)**
+**A thorough analysis of all the findings have been included in the supporting critical essay [here.](https://github.com/ashwathi-pillai/text-readability-classifier/blob/main/critical%20essay.pdf)** 
 
 
 ### REFERENCES: 
