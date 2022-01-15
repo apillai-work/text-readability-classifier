@@ -10,15 +10,15 @@ with their students’ reading level, as the student pool could comprise of chil
 language learners (Vajjala and Meurers, 2012). As a result, a consistent and reliable method for determining if a text is accessible to the target population is
 required.
 
-**Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
-audience.**
+### Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
+audience.
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
 text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on a self-curated corpus which was divided into
 three distinct labelled datasets. Each of these datasets were also analysed using word embeddings with t-SNE to get a better understanding of it. Lastly, upon
 all the classifiers being ready after manual parameter-tweaking, they were tested using Wiki-Simple and Wiki-Normal pages. 
 
-**Corpus Development:**
+### Corpus Development:
 
 English textbooks from India, Afghanistan, Indonesia, and the Islamic State were interchangeably used to form three separate datasets. This was done for several
 different aims: to see if variances in grade ranges affect the performance, to study how the same language is taught in different regions, to examine if changes
