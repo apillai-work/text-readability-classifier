@@ -21,7 +21,7 @@ all the classifiers being ready after manual parameter-tweaking, they were teste
 English textbooks from India, Afghanistan, Indonesia, and the Islamic State were interchangeably used to form three separate datasets. This was done for several
 different aims: to see if variances in grade ranges affect the performance, to study how the same language is taught in different regions, to examine if changes
 in region of the textbook utilized for the same classifier affected performance, and to verify if the model could accurately classify English phrases from across
-the world using non-western data. Due to this data diversity, one can evaluate what effects the specifics of each dataset have on the general robustness of the
+the world using non-western data. Due to this data diversity, one can evaluate what effects the specifics of each dataset has on the general robustness of the
 classifier. The nature of the content was common in all the textbooks, consisting of stories, poems, plays, and english language acquisition exercises. All of
 these texts were sourced from Library Genesis, and extracted from PDF files using an online file converter. The three finalised datasets
 with labels were as follows:
