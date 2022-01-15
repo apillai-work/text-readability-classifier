@@ -10,8 +10,6 @@ required.
 
 **Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
 audience.**
-
-**Project Use Case: To analyse speaking styles of various political leaders**
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
 text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on a self-curated corpus which was divided into
