@@ -23,7 +23,7 @@ different aims: to see if variances in grade ranges affect the performance, to s
 in region of the textbook utilized for the same classifier affected performance, and to verify if the model could accurately classify English phrases from across
 the world using non-western data. Due to this data diversity, one can evaluate what effects the specifics of each dataset have on the general robustness of the
 classifier. The nature of the content was common in all the textbooks, consisting of stories, poems, plays, and english language acquisition exercises. All of
-these texts were sourced from Library Genesis (Library Genesis, 2021) and extracted from PDF files using an online file converter. The three finalised datasets
+these texts were sourced from Library Genesis, and extracted from PDF files using an online file converter. The three finalised datasets
 with labels were as follows:
  
 a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libgen.is/search.php?req=ncert+english&open=0&res=25&view=simple&phrase=1&column=def) by the country's National Council of Educational Research and Training Publication (2009 Edition)
