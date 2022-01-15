@@ -30,7 +30,7 @@ a)	Dataset 1: [First and Tenth Grade English Textbooks from India](https://libge
 
 b)	Dataset 2: [Fourth and Twelfth Grade English Textbooks from Afghanistan](https://libgen.is/search.php?req=afghanistan+english&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by the country's Ministry of Education (2011 Edition)
 
-c) Dataset 3: a [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) by the country's Ministry of Education and Culture (2008 Edition), and a [Sixth Grade Textbook from the Islamic State](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def) (Publisher unknown).
+c) Dataset 3: A [Second Grade English Textbook from Indonesia](https://libgen.is/book/index.php?md5=42EEC448F886A2790FC9AE5A2526F0C4) by the country's Ministry of Education and Culture (2008 Edition), and a [Sixth Grade Textbook from the Islamic State](https://libgen.is/search.php?req=islamic+state+english&open=0&res=25&view=simple&phrase=1&column=def) (Publisher unknown).
 
 `A thorough analysis of all the findings have been included in the supporting project essay here [link].` 
 
