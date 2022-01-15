@@ -10,8 +10,8 @@ with their students’ reading level, as the student pool could comprise of chil
 language learners (Vajjala and Meurers, 2012). As a result, a consistent and reliable method for determining if a text is accessible to the target population is
 required.
 
-### Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
-audience.
+**Aim: To construct a model that allows writers to have more control over their writing, so that they could structure their work according to their intended
+audience.**
  
 The purpose of this project was to build and analyse various deep learning models for text readability classification in order to determine whether a piece of
 text is easy or hard to read. Naive Bayes, Convolutional Neural Network, and distilBERT models were trained on a self-curated corpus which was divided into
